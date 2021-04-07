@@ -1,0 +1,6 @@
+{
+  "baseUrl": "http://api.exchangeratesapi.io/",
+  "accessKeys": {
+    "basicUser": "937e558b165ded128cedc6e4013e021b"
+  }
+}
